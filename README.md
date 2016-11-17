@@ -3,7 +3,8 @@
 Using Mongo booster
 
 Connect to a running mongo instance (localhost:27017), use a database named `mongo_exercise` 
-
+### Note
+  Mongodb must be installed on your machine
 ## Insert Documents
 
 Insert the following documents into a `movies` collection.
